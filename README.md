@@ -15,3 +15,4 @@ Through this project, I learned:
 How to build responsive layouts
 Designing user-friendly UI
 # Live Demo
+ https://trishamullapudi-byte.github.io/PRODIGY_WD_01/
